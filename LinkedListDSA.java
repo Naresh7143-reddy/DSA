@@ -338,10 +338,9 @@ public void backtraverse(){
 
 
 // CIRCULAR lINKED lIST 
-public class Main{
+public class LinkedListDSA{
 	public static void main(String[] args) {
-		CircularLinkedList cl= new CircularLinkedList();
-		DoublyLinkedList dl= new DoublyLinkedList();
+		
 		
 	}
 }
